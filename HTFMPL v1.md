@@ -28,27 +28,29 @@ Authors using the license (thank you btw), have full right to do whatever the fu
 
 
 # 🧩 Tags
-HTFMPL same as Creative Commons contains "Attributions" (I yoinked that idea, cause it's cool) - But here we call them "Tags" for simplicity sake. Tags are shortcuts for specific conditions that you can slap next to the license name to quickly define what other people can do and cannot do with your work. HTFMPL relies on tags, and without them, it's basically useless...
+HTFMPL same as Creative Commons contains "Attributions" (I yoinked that idea, cause it's cool) - But here, we call them "Tags" for simplicity sake. Tags are shortcuts for specific conditions that you can slap next to the license name to quickly define what other people can or cannot do with your work. HTFMPL relies on tags, and without them, it's basically useless...
 
 
-- 👤 **BA (By Authors)** – Anyone using, modifying, or selling the work must credit the original author(s). The credit must be clearly visible wherever the work is shared or point to a location where people can find the original author(s).
+- 👤 **BA (By Authors)** – Anyone using, modifying, sharing or selling the work **must credit the original author(s)**. The credit must be **clearly visible** wherever the work is shared or point to a location where people can find the original author(s).
 
 - 💵 **NC (Non Commercialy)** - The original work or the project the work is part of cannot be used for financial gain. Making even the smallest amount of money violates the license.
 
-- 🪽 **AF (Always Free)** - You are allowed to use the work for financial gain, but regardless of the money making method the work must be always free, it is forbidden to put it behind a paywall.
+- 🪽 **AF (Always Free)** - You are allowed to use the work for financial gain, but **no matter how you do it** the work **must stay free**. You **cannot** slap it behind a paywall - It's **not** your property so you don't to decide who the fuck has access to it. I share it with you, so share it with others and everything is skibidi sigma.
 
 - 👶 **HD (Hereditary)** - Anyone modifying and sharing the work must upload it under the same terms that original version of the work had.
 
-- **AI (AI Friendly)** - Anyone using the work have permission to use it to train any kind of Artificial Inteligence, put it in datasets or do other things related to AI.
+- 🔁 **ML (Multi-Licensing)** - If the **HD tag is present** - Any modified versions of the work can be licensed under additional license(s) - **as long as those new terms don't violate original ones**. So yeah, stack rules like Discord kittens in your basement if you wanna. Just make sure they all obey the same sigma daddy.
+
+- 🤖 **NA (No AI)** - Work cannot be used as AI's training material, generative computer code, datasets or anything that is related to Machine Learning - In other words *"You do you, but don't grab my shit into your garbage AI model"*.
 
 
 
-# 🚫 Only-Tags
-Only-Tags (sounds kinda like OF) are tags that apply the license **only on certain conditions**. If none of these conditions are met **all tags that weren't hard-coded are considered invalid** - But don't get too excited yet my cutie patootie... don't forget about that authors can specify additional terms.
+# 📘 Only-Tags
+Only-Tags (sounds kinda like OF) are tags that apply the license **only on certain conditions**. If none of these conditions are met **all tags that weren't hard-coded are considered invalid** (see below) - But don't get too excited yet my cutie patootie... don't forget about that authors can specify additional terms.
 
-- **OC (Only Commercially)** - License applies only if person uses the work for financial gain.
+- 💵 **OC (Only Commercially)** - License applies only if person using the work in any way receives financial gain from it. 
 
-- **OM (Only Modified)** - License applies only if the work by original author(s) were modified in any way. This license doesn't apply if the work was only an unmodified part of something else, (ex. programming libraries, music samples, krita brushes)
+- 🛠️ **OM (Only Modified)** - License applies only if the work by original author(s) were modified in any way. This license doesn't apply if the work **was only an unmodified part of something else**, (ex. programming libraries, music samples, krita brushes)
 
 Order of these attributions doesn't matter, but it's recommended, so people don't get a stroke while reading the license tags.
 
