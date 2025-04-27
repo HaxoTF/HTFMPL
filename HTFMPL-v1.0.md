@@ -8,7 +8,7 @@ License Type: Flexible / Attribution <br>
 Short Name: HTFMPL v1
 
 ### 📌 Inspired by
-- [GNU general Public License](https://www.gnu.org/licenses/gpl-3.0.en.html) - (i love the general idea/goal)
+- [GNU general Public License](https://www.gnu.org/licenses/gpl-3.0.en.html) - (i love the general vibe of sharing)
 - [Creative Commons](https://creativecommons.org/) - (attributions are genius)
 - [WTFPL](https://en.wikipedia.org/wiki/WTFPL) - (straight forward and funny)
 
@@ -26,26 +26,37 @@ As long as the terms are as clear as my Minecraft inventory after death it's all
 
 Authors using the license (thank you btw), have full right to do whatever the fuck they want with it - **as long as it doesn't violate the license this license is under on** (look at the top). You can edit whatever you want, write your own custom terms or use it as a base for your own license - in simpler terms, don't be a dick and respect my work (the license).
 
+
 # ‼️Important
-**Read it** before anything else, cause it might contain **very important** infomation.
+**Read it** before anything else, cause it might contain **very important** information.
 
-- **I am speaking directly to you** - When I say "I", I don't mean some random dude - I mean **HaxoTF**.
+- **I am speaking directly to you** <br>
+When I say "I," I don't mean some random dude -- I mean **HaxoTF**.
 
-- **Don't confuse people** - I know damn well what license I slapped this on. If you are using HTFMPL as a base for your own thing, you **must credit HaxoTF** and release it under a different, non-confussing name - or at least label it as `Edited HTFMPL`. By "using it as a base" I mean straight-up copying it 1:1 and tweaking things to your liking. You also have to include your own terms either by linking to them or putting long-ass text somewhere where people can easily find it. No shady business, no "oopsies", no excuses...
+- **Don't confuse people** <br>
+I know damn well what license I slapped this on. If you are using HTFMPL as a base for your own thing, you **must credit HaxoTF** and release it under a different, non-confusing name -- or at least label it as `Edited HTFMPL`. By "using it as a base," I mean straight-up copying it 1:1 and tweaking things to your liking. You also have to include your own terms, either by linking to them or putting long-ass text somewhere people can easily find it. No shady business, no "oopsies," no excuses...
 
-- **I am not a lawyer** - I am just a single dude writing this at home, vibing and chilling to the music. Despite my good intentions when creating this document I could make mistakes (I am just a human after all). Any part that is considered illegal or against your local law can be simply ignored, anything else is still valid. I would really appreciate that if you point out those mistakes and helped me to correct them.
+- **I am not a lawyer** <br>
+I am just a single dude writing this at home, vibing and chilling to the music. Despite my good intentions when creating this document, I could make some mistakes (I am just a human, after all). Any part that is considered illegal or against your local law can simply be ignored; anything else is still valid. I would really appreciate it if you pointed out those mistakes and helped me correct them.
 
-- **Law is a final BOSS** - If your local law says "nope", then guess what - they win. Always respect the law, even if this license says otherwise. I am not picking fights with governments.
+- **Law is a final BOSS** <br>
+If your local law says "nope," then guess what -- they win. Always respect the law, even if this license says otherwise. I am not picking fights with governments.
 
-- **This license might change** - I, as the author have full right to fix, change or update the license - as long as those changes are not violating [Self-Rules](self-rules.md) - Always **check what version you are dealing with**, cause older versions might be outdated or lack important stuff.
+- **This license might change** <br>
+I, as the author, have full right to fix, change, or update the license -- as long as those changes are not violating [Self-Rules](self-rules.md). Always **check what version you are dealing with,** because older versions might be outdated or lack important stuff.
 
-- **You work is your Responsibility** - If someone violates the terms while your work was under the HTFMPL license, **I am not your lawyer or your babysitter**. I gave you ready-to-use terms to defend yourself, but if shit happens, it's **your** fight, not mine. I'll still cheer for you though <3
+- **Your work is your responsibility** <br>
+If someone violates the terms while your work was under the HTFMPL license, **I am not your lawyer or your babysitter.** I gave you ready-to-use terms to defend yourself, but if shit happens, it's **your** fight, not mine. I'll still cheer for you though. <3
 
-- **HTFMPL doesn't overwrite** - HTFMPL **cannot override** terms that already were stated by the original work, product or original author. If, for example the developer says "your levels are our property" then, your levels are their property, no matter what. HTFMPL only covers what it's allowed to, not what has been already locked down by someone else.
+- **HTFMPL doesn't overwrite** <br>
+HTFMPL **cannot override** terms that were already stated by the original work, product, or original author. If, for example, the developer says "your levels are our property," then your levels are their property, no matter what. HTFMPL only covers what it's allowed to -- not what has already been locked down by someone else.
 
-- **Updates aren't automatic** - Look, just because a new version of the HTFMPL comes out **doesn't** mean everything automatically switches to that version. Any works already under the previous version of the license will **stick to the version they're under** unless the **authors chooses to relicense** them. So, if you wanna stay up-to-date, you gotta make that call yourself.
+- **Updates aren't automatic** <br>
+Look, just because a new version of the HTFMPL comes out **doesn't** mean everything automatically switches to that version. Any works already under the previous version of the license will **stick to the version they're under** -- unless the **author chooses to relicense** them. So, if you wanna stay up-to-date, you gotta make that call yourself.
 
-- **Wall of Shame** - Listen up, you little gremlins - if you try to fuck with the rules, (whether it's the license or the work under HTFMPL), you are gonna end up on the [ban-list](ban-list.md). Once you are on that list, you are **officially banned** from **using anything under HTFMPL** or **the license itself**. We don't want you here if you came as a troll - The **only exception** is if you get **permission from author(s)**, but that **only applies** to **their specific work**.
+- **Wall of Shame** <br>
+Listen up, you little gremlins -- if you violate the rules of the license (whether it's the license or the work under HTFMPL), you will be placed on the [ban-list](ban-list.md). Once you are on that list, you are **officially banned** from **using anything under HTFMPL** or **the license itself.** We don't want you here if you came as a troll. The **only exception** is if you get **permission from the author(s),** but that **only applies** to **their specific work.** I won't place people on the [ban-list](ban-list.md) if they violated the rules by accident and took the time to correct their mistake -- I am not a monster, after all.
+
 
 # 🧩 Tags
 HTFMPL same as Creative Commons contains "Attributions" (yeah, I yoinked that idea, cause it's cool) - But here, we call them "Tags" for simplicity sake. Tags are shortcuts for specific conditions that you can slap next to the license name to quickly show what other people can or cannot do with your work. HTFMPL relies on tags, and without them, it's basically useless...
@@ -56,11 +67,11 @@ HTFMPL same as Creative Commons contains "Attributions" (yeah, I yoinked that id
 
 - 💵 **NC (Non Commercialy)** - The original work or the project the work is part of cannot be used for financial gain. Making even the smallest amount of money violates the license.
 
-- 🪽 **AF (Always Free)** - You are allowed to use the work for financial gain, but **no matter how you do it** the work **must stay free**. You **cannot** slap it behind a paywall - It's **not** your property so you don't to decide who the fuck has access to it. I share it with you, so share it with others and everything is skibidi sigma.
+- 🪽 **AF (Always Free)** - You are allowed to use the work for financial gain, but **no matter how you do it** the work **must stay free**. You **cannot** slap it behind a paywall - It's **not** your property so you don't get to decide who the fuck has access to it. I share it with you, so share it with others and everyone is happy - If **HD** tag is **not present**, it applies **only to the original work**, Otherwise any modifications or adaptations must stay free.
 
 - 👶 **HD (Hereditary)** - Anyone modifying and sharing the work must upload it under the same terms that original version of the work had.
 
-- 🔁 **ML (Multi-Licensing)** - If the **HD tag is present** - Any modified versions of the work can be licensed under additional license(s) - **as long as those new terms don't violate original ones**. So yeah, stack rules like Discord kittens in your basement if you wanna. Just make sure they all obey the same daddy.
+- 🔁 **ML (Multi-Licensing)** - If the **HD tag is present** - Any modified versions of the work can be licensed under additional license(s) - **as long as those new terms don't violate original ones**. So yeah, stack rules like Discord kittens in your basement if you wanna, just make sure they all obey the same daddy.
 
 # 💻 AI related Tags
 
