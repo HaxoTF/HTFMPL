@@ -12,6 +12,8 @@ It means the real ones - the people that use, contribute or care about the licen
 ### 1. 🛠️ **WIP, or Cannot Be Edited** <br>
 Any changes to HTFMPL can only be applied to files marked as "WIP" (Work in Progress). Once document is finalized, it's locked in - no more edits. If I want to make even the tiniest change I must release it as new version or subversion (This rule applies only to files starting with `HTFMPL`).
 
+⚠️ Note: Broken links may be updated for usability, but actual terms and content of the file remain unchanged.
+
 ### 2. 💡 **Bond to the Vibe** <br>
 All versions of HTFMPL must stick to the same tone, style and format. I will avoid switching between formal and casual, or dumping overly complex legal jargon without a valid reason (like, unless some SWAT team breaks my door down like LEGO set and stops me from writing this while cooking meth). Keep it clear, keep it fun.
 
@@ -22,7 +24,7 @@ Once a rule or tag is implemented, it **cannot** be undone without a clear and r
 When the new subversion (v1.x) of HTFMPL is released, I (HaxoTF), as the author of the license must list all changes - either detailed or general way - inside the `changelog.md` file. This way, you are assured nothing is hidden from you, and you are not blindly accepting any ninja edits. If I forget to list any change, you as the user have full right to call me out and request a correction. Fair and square.
 
 ### 5. ⬅️ **Backward Compatibility** <br>
-All changes applied to HTFMPL **must not** mess up previous subversions of the license - In simpler words: `HTFMPL v1.1` should work pretty much the same as `HTFMPL v1` - just with some new toys to play with.
+All changes applied to HTFMPL **must not** mess up previous subversions of the license - In simpler words: `HTFMPL v1.1` should work pretty much the same as `HTFMPL v1` - just with some new toys to play with.  *Unless...* the reasonable reason is given.
 
 ### 6. 🤝 **Your Opinion Matters**
 We, as the HTFMPL community, are in this together. I (HaxoTF), as the original author, might ask for feedback, suggestions or ideas from the community - but the final word stays with me. I'll always listen, but I won't base changes on random garbage complaints. Quality input only, my friend.
@@ -30,5 +32,9 @@ We, as the HTFMPL community, are in this together. I (HaxoTF), as the original a
 ### 7. ✨ **Clarity**
 Every term in the HTFMPL should be crystal clear. If someone has to scratch their head while reading the license, it's my responsibility to fix it. I will always claim for clarity and avoid legal bloat.
 
-### 8. ⛔ **I Am Like Anyone Else**
-If work is licensed under HTFMPL, it is **not** my property. I **must** follow the same terms that the original author of the work has specified -- unless I am given permissions **only** by those author(s) individualy, I will always respect your work in any way, never stop creating <3
+### 8. ⛔ **I'm Not Above The Law, I Just Write It**
+Just because I made HTFMPL **doesn't** mean I get special treatment. If work is licensed under HTFMPL, it's **not** my property. I have to follow the same rules as everyone else - **unless the original author gives me permission**. <br>
+No shortcuts. No sneaky overrides.
+
+I will always respect your work. <br>
+Never stop creating 🩵

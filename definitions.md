@@ -5,6 +5,8 @@ Nobody should have to dig through some boring, long-ass legal paper just to figu
 **Anything here can be changed if needed** <br>
 If something is missing here or you're like "yo, what the hell does it mean?" - **hit me up directly** and I'll slap it in here faster than you can say *"what the ligma"*.
 
+I love explaining things anyway 🩵
+
 
 # 👤 Author - Related
 
@@ -69,17 +71,20 @@ If something is missing here or you're like "yo, what the hell does it mean?" - 
 ---
 
 ### **"Wall of Shame" or "Ban-List"** <br>
-**Explanation:** This refers to a list of users who violated the rules and all rights to HTFMPL or works under it. It's pretty self-explanatory. But yea, as you might realise authors have real power their work so they can just "yo, the ban-list doesn't apply". Their work - no mine.
+**Explanation:** This refers to a list of users who violated the rules and lost all rights to HTFMPL and works under it. It's pretty self-explanatory. But yea, as you might realise authors have real power over their work so they can just "yo, the ban-list doesn't apply". Their work - no mine - their rules - not mine.
 
 ---
 
 ### 🔤 **Other Garbage**
+I tried to sort them alphabetically
 
 |**Term**|Explanation|
 |:-:|:-|
-| **Titty Water** | Milk - produced by mammals, to nourish their young. |
-| **Gremlin** | Someone who intentionaly violates the rules. |
-| **Bozo** | A funny insult, usually meaning that someone is foolish or stupid. |
-| **Troll** | Someone who shows up just to cause harm for their own personal  entertainment. |
 | **Cutie Patootie** | A compliment, usually meaning that someone is cute. |
-| **Yeet** | To throw something.  |
+| **Bozo** | A funny insult, usually meaning that someone is foolish or stupid. |
+| **Gremlin** | Someone who intentionaly violates the rules. |
+| **LMAO** | Short of "laughing my ass of", usually used when something is funny |
+| **LOL** | Short of "lots of laugh", usually used when something is funny |
+| **Titty Water** | Milk - produced by mammals, to nourish their young. |
+| **Troll** | Someone who shows up just to cause harm for their own personal  entertainment. |
+| **Yeet** | To throw something. |

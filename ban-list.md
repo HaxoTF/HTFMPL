@@ -50,11 +50,12 @@ Some people really out here playin' dumb, so let me spell it for you.<br>
 *(you can't agree to something written in a sci-fi fever dream, do you?)*
 
 - **The terms were unfair AS FUCK** <br>
-*(No, they can't just slap HTFMPL on a "free sprite pack" and deman your whole desktop directory - that's not how it works, clown)*
+*(No, they can't just slap HTFMPL on a "free sprite pack" and demand your whole desktop directory - that's not how it works, clown)*
 
 - **You were just vibing and someone else dragged you into this mess** <br>
 *(punishing innocents ain't the vibe here)*
 
+<br>
 
 # 💬 Forgiveness Request
 Fell on your face and wanna crawl back in?
@@ -87,7 +88,7 @@ If they respect the ban-list and leave you alone - **do not harass them**. <br>
 
 This list exists to **set boundaries**, not incite drama. **Don't act like an asshole**.
 
-> ⚠️ **Disclaimer:** This ban-list includes both real and joke entries. If you're unsure which is which, either you've done something shady or your sense of humour needs firmware update.
+> ⚠️ **Disclaimer:** This ban-list includes **both real and joke entries**. If you're unsure which is which, either you've done something shady or your sense of humour needs firmware update.
 
 | User/Entity | Reason | Date Banned (D/M/Y) | Links |
 |:-:|:-|:-:|:-:|
@@ -98,5 +99,5 @@ This list exists to **set boundaries**, not incite drama. **Don't act like an as
 | Windows Update | Bricked my PC mind-game | 3.402823669e+38 | Any goddamn PC |
 | My girlfriend | For not existing | 4 / 0 / 4 | idk 🥀 |
 | The voices in my head | They voted against me | 0 / 0 / 0 | [My nonexistent brain](https://www.youtube.com/watch?v=I8Rg1BjpzWc&list=PLAeECSztO8s6XijX3WdgUGgVpPaVwEmYL&index=2) |
-| Lucifer | Potential gremlin | 666 / 666 / 666 | Big-ass red cave |
-| Assembly | Language for masochists | bruh | Seriously why tf you use that |
+| Lucifer | Potential gremlin | 666 / 666 / 666 | Big-ass underground cave |
+| Assembly | Language for masochists | bruh | But Mario is cool, ngl |
