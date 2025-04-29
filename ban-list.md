@@ -78,7 +78,7 @@ You're on the list until I personally decide you are not. <br>
 
 # ⛔ Banned-Users
 If they respect the ban-list and leave you alone - **do not harass them**. <br>
-**Mockery is only fair game** if they keep acting like clowns and ignoring the rules. <br>
+Mockery is only fair game if they keep acting like clowns and ignoring the rules. <br>
 **Live and let live.** Break that, and **you might find your ass on this list too**. 💀
 
 > ❗ REGARDLESS OF ANYTHING **DO NOT**:
@@ -89,6 +89,10 @@ If they respect the ban-list and leave you alone - **do not harass them**. <br>
 This list exists to **set boundaries**, not incite drama. **Don't act like an asshole**.
 
 > ⚠️ **Disclaimer:** This ban-list includes **both real and joke entries**. If you're unsure which is which, either you've done something shady or your sense of humour needs firmware update.
+
+> ❗ **Note:** No personal info will ever be shared here. <br>
+> If a link is included, it only points to **public accounts** or **places the listed folks willingly posted in.** <br>
+> We don't dox - we just keep receipts.
 
 | User/Entity | Reason | Date Banned (D/M/Y) | Links |
 |:-:|:-|:-:|:-:|
