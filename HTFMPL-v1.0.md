@@ -29,6 +29,8 @@ I'm just listing them because I'm nice like that. 🎁
 - [My personal No-Bullshit rules](self-rules.md) - (*aka: Self-Rules*)
 - [Our big-ass jail for gremlins](ban-list.md) - (*aka: Wall of Shame*)
 
+> The HTFMPL changes are FINAL and can't be changed after you agree to them. However, linked documents (like the FAQ, definitions, etc.) can be updated anytime. The version of the HTFMPL is locked, and any changed to the linked documents will be tracked by GitHub.
+
 <br>
 
 # 🚨 Welcome To The Shitshow 🚨
@@ -167,18 +169,19 @@ Examples:
 Trigger tags only make unlocked tags optional *until* their condition is triggered. Then those tags stop being chill suggestions and turn into hard rules.
 
 - 💵 **TIC (If Commercially):** <br>
-All unlocked tags **applies only** if person using the work in any way **makes any kind of financial gain** from it.
-<br> *[Conflicts: NC]*
+Unlocked tags **apply** only *if* the work **generates any type of financial gain**.
+> No profit = No problem. Getting paid = obey the rules. <br>
+> **[Conflicts: NC]**
 ---
 
 - 🛠️ **TIM (If Modified):** <br>
-All unlocked tags **applies only** if the original work by original author(s) was **modified** in any way. This license **doesn't apply** if the work is **used as an unmodified part of something else**, (ex: code libraries, music samples, krita brushes)
+Unlocked tags **apply** only *if* the work was **edited or changed in any way**.
+> Leave it untouched = chill. Modify it = rules kick in.
 ---
 
 - 🏠 **TEP (Excepting Personal Use):** <br>
-All unlocked tags **doesn't apply** if person using the work does it only for **personal, non-commercial usage** - Otherwise, they are still obligated to follow these terms - in other words: *"Yeah, if you are keeping it for yourself, I don't care, but if you share it anywhere... follow the damn rules"*.
-
-Order of these doesn't matter, but it's recommended, so people don't get a stroke while reading the license tags.
+Unlocked tags **don't apply** if the work is used for **personal non-commercial purposes.**
+> Use it quietly? I don't care. Share or monetize? Follow the damn rules. 
 
 <br>
 
