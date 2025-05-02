@@ -1,11 +1,13 @@
 # ❔ Definitions
 This document makes sure you actually know **what the fuck do I mean** when I throw specific terms around. <br>
-Nobody should have to dig through some boring, long-ass legal paper just to figure out what a word means - **fuck that**.
+Ain't nobody got time to dig through some boring, long-ass legal jargon just to figure out what a word means - **fuck that**.
 
 **Anything here can be changed if needed** <br>
 If something is missing here or you're like "yo, what the hell does it mean?" - **hit me up directly** and I'll slap it in here faster than you can say *"what the ligma"*.
 
-I love explaining things anyway 🩵
+I love explaining shit anyway 🩵
+
+**Remember:** Some terms might seem obvious to most people, but a few **were tweaked for simplicity sake** - because why make it complicated?
 
 
 # 👤 Author - Related
@@ -76,7 +78,7 @@ I love explaining things anyway 🩵
 ---
 
 ### 🔤 **Other Garbage**
-I tried to sort them alphabetically
+I tried to sort them alphabetically.
 
 |**Term**|Explanation|
 |:-:|:-|
