@@ -1,9 +1,3 @@
-<style>
-:root {
-    --gifh: 20px;
-}
-</style>
-
 # 🩵 HaxoTF's Multi-Purpose License (WIP)
 
 > ⚠️ **This License is a WIP (Work In Progress) and doesn't have any real impact yet**. <br>
@@ -160,13 +154,13 @@ Without tags, HTFMPL is just pretty wrapper without candy inside 🍬
 
 - 👤 **BA (By Authors):** <br>
 Anyone using, editing or selling the work must credit the original author(s). 
-<br> <img src="assets/tags/ba.gif" style="height: var(--gifh);">
+<br> <img src="assets/tags/ba.gif" style="height: 35px;">
 
 ---
 
 - 💵 **NC (Non-Commercially):** <br>
 You **can't profit** from the work, period. Even a single cent breaks the license.
-<br> <img src="assets/tags/nc.gif" style="height: var(--gifh);">
+<br> <img src="assets/tags/nc.gif" style="height: 35px;">
 
 ---
 
