@@ -1,6 +1,6 @@
 <style>
 :root {
-    --gifh: 35px;
+    --gifh: 20px;
 }
 </style>
 
